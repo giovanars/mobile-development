@@ -1,4 +1,4 @@
-package br.com.fiap.mobiledevelopment
+package br.com.fiap.grupodois.mobiledevelopment
 
 import org.junit.Test
 

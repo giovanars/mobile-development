@@ -1,4 +1,4 @@
-package br.com.fiap.mobiledevelopment
+package br.com.fiap.grupodois.mobiledevelopment
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("br.com.fiap.mobiledevelopment", appContext.packageName)
+        assertEquals("br.com.fiap.grupodois.mobiledevelopment", appContext.packageName)
     }
 }

@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Mobile Development</string>
+    <string name="app_name">Cadastro de produtos</string>
+    <string name="very_strong">Muito forte</string>
+    <string name="strong">Forte</string>
+    <string name="medium">Média</string>
+    <string name="weak">Fraca</string>
 </resources>
